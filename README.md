@@ -6,10 +6,10 @@ This repository contains materials for the ITMO Digital Signal Processing Course
 
 ## Lab works
 
-1. [Signals](/https://github.com/Ablooa/Digital_signal_processing_ITMO/blob/main/lab1.ipynb/)
-2. [Signal analysis](/https://github.com/Ablooa/Digital_signal_processing_ITMO/blob/main/lab2.ipynb/)
-3. [Filters](/https://github.com/Ablooa/Digital_signal_processing_ITMO/blob/main/lab3.ipynb/)
-4. [Acoustic features](/https://github.com/Ablooa/Digital_signal_processing_ITMO/blob/main/lab4.ipynb/)
+1. [Signals](https://github.com/Ablooa/Digital_signal_processing_ITMO/blob/main/lab1.ipynb)
+2. [Signal analysis](https://github.com/Ablooa/Digital_signal_processing_ITMO/blob/main/lab2.ipynb)
+3. [Filters](https://github.com/Ablooa/Digital_signal_processing_ITMO/blob/main/lab3.ipynb)
+4. [Acoustic features](https://github.com/Ablooa/Digital_signal_processing_ITMO/blob/main/lab4.ipynb)
 
 ## Data
 
