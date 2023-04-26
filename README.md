@@ -1,2 +1,1 @@
-# Digital_signal_processing_ITMO
-ITMO Digital Signal Processing Course
+# Digital_signal_processing
